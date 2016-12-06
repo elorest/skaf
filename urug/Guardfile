@@ -1,3 +1,0 @@
-guard "kemal", path: ".", file: "app.cr" do
-  watch("src/urug.cr")
-end
