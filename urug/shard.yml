@@ -1,0 +1,22 @@
+name: urug
+version: 0.0.1
+
+authors:
+- isaac
+
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+  spec-kemal:
+    github: sdogruyol/spec-kemal
+  slang:
+    github: jeromegn/slang
+  kemalyst-model:
+    github: drujensen/kemalyst-model
+  mysql:
+    github: waterlink/crystal-mysql
+  pool:
+    github: ysbaddaden/pool
+    commit: c4ecfad1b87fbd8c6484d1fd536ccfd14c40cc94
+
